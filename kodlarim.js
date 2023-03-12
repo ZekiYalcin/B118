@@ -4,3 +4,4 @@
 //v2 tamamlandi..
 //v3 hizli push islemi
 //v4 github tan kodlar...
+//v5 git ignore kodlari..
